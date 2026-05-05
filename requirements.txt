@@ -1,0 +1,7 @@
+streamlit>=1.31
+langchain>=0.2
+langchain-community>=0.2
+langchain-experimental>=0.0.60
+langchain-openai>=0.1
+markdownify>=0.12
+python-dotenv>=1.0
